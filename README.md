@@ -1,6 +1,6 @@
 # Small PowerShell Recon Framework
 
-A modular, auditable framework for Windows reconnaissance and security testing. Designed for **authorized security research and red team**.
+A modular, auditable framework for Windows reconnaissance and security testing. Designed for **authorized security research and red team**. Inspired by curiousity and experimentation in regards to the BadUSB.
 
 ## Legal Notice
 
